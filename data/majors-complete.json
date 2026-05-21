@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Computer Science",
+    "emoji": "💻",
+    "category": "STEM",
+    "description": "Study computational theory, algorithms, programming, and software development. Learn to design efficient solutions to complex computational problems.",
+    "traits": ["Analytical", "Problem-solving", "Technical", "Detail-oriented"],
+    "scholarships": ["NVIDIA AI Computing Scholarships", "Google CS Scholarships", "Microsoft Scholarship for Future Leaders"],
+    "hsCourses": ["AP Computer Science A", "AP Computer Science Principles", "Calculus (AP)", "Physics (AP)"],
+    "careers": ["Software Engineer", "Data Scientist", "Machine Learning Engineer", "Systems Architect"],
+    "extracurriculars": ["Coding competitions (ICPC)", "Hackathons", "Open-source contributions", "Algorithm study groups"],
+    "bestColleges": {
+      "FL": ["University of Florida", "Florida Tech", "University of Miami"],
+      "CA": ["Stanford University", "UC Berkeley", "Caltech"],
+      "NY": ["Columbia University", "Cornell University", "NYU"],
+      "TX": ["UT Austin", "Rice University", "SMU"]
+    },
+    "salary": "$85,000 - $150,000",
+    "jobOutlook": "20%",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 2,
+    "name": "Data Science",
+    "emoji": "📊",
+    "category": "STEM",
+    "description": "Combine statistics, mathematics, and programming to extract actionable insights from data. Work with machine learning, big data, and analytics.",
+    "traits": ["Analytical", "Math-focused", "Technical", "Statistical thinking"],
+    "scholarships": ["Data Science Diversity Scholarships", "IBM Data Science Grants", "AI & Analytics Fellowships"],
+    "hsCourses": ["AP Statistics", "Calculus (AP)", "AP Computer Science", "Linear Algebra"],
+    "careers": ["Data Analyst", "Data Scientist", "Business Analyst", "ML Engineer"],
+    "extracurriculars": ["Kaggle competitions", "Data visualization projects", "Statistical analysis clubs"],
+    "bestColleges": {
+      "FL": ["University of Florida", "Florida State University"],
+      "CA": ["Stanford University", "UC Berkeley", "Carnegie Mellon"],
+      "NY": ["Columbia University", "NYU"],
+      "TX": ["UT Austin", "Rice University"]
+    },
+    "salary": "$80,000 - $140,000",
+    "jobOutlook": "36%",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 3,
+    "name": "Artificial Intelligence & Machine Learning",
+    "emoji": "🤖",
+    "category": "STEM",
+    "description": "Study neural networks, deep learning, natural language processing, and computer vision. Create intelligent systems that learn from data.",
+    "traits": ["Innovative", "Technical", "Research-focused", "Problem-solving"],
+    "scholarships": ["AI Research Fellowships", "DeepMind Scholarships", "OpenAI Grants"],
+    "hsCourses": ["AP Computer Science A", "Calculus (AP)", "Linear Algebra", "Statistics (AP)"],
+    "careers": ["AI Research Scientist", "Machine Learning Engineer", "NLP Engineer", "Robotics Engineer"],
+    "extracurriculars": ["AI hackathons", "Research papers reading group", "Computer vision projects"],
+    "bestColleges": {
+      "FL": ["University of Florida"],
+      "CA": ["Stanford University", "UC Berkeley", "Caltech"],
+      "NY": ["Columbia University"],
+      "TX": ["UT Austin"]
+    },
+    "salary": "$95,000 - $180,000",
+    "jobOutlook": "38%",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 4,
+    "name": "Cybersecurity",
+    "emoji": "🔒",
+    "category": "STEM",
+    "description": "Protect digital systems and networks from cyber threats. Study encryption, penetration testing, compliance, and security architecture.",
+    "traits": ["Detail-oriented", "Security-minded", "Analytical", "Problem-solving"],
+    "scholarships": ["Cyber Scholarship Program", "SANS Scholarships", "Cisco Cybersecurity Grants"],
+    "hsCourses": ["AP Computer Science", "Advanced Mathematics", "Physics", "Information Technology"],
+    "careers": ["Cybersecurity Analyst", "Penetration Tester", "Security Architect", "Incident Response Manager"],
+    "extracurriculars": ["CTF competitions", "Cybersecurity clubs", "Security research", "Bug bounty programs"],
+    "bestColleges": {
+      "FL": ["University of Florida", "Florida Tech"],
+      "CA": ["UC Berkeley", "Stanford University"],
+      "NY": ["Cornell University", "RPI"],
+      "TX": ["UT Austin"]
+    },
+    "salary": "$75,000 - $130,000",
+    "jobOutlook": "33%",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 5,
+    "name": "Software Engineering",
+    "emoji": "⚙️",
+    "category": "STEM",
+    "description": "Design, build, and maintain large-scale software systems using best practices and development methodologies. Learn design patterns and architecture.",
+    "traits": ["Technical", "Problem-solving", "Collaborative", "Detail-oriented"],
+    "scholarships": ["Software Engineering Fellowships", "GitHub Education Grants", "JetBrains Scholarships"],
+    "hsCourses": ["AP Computer Science A", "Calculus (AP)", "Physics", "Discrete Mathematics"],
+    "careers": ["Software Engineer", "Full Stack Developer", "Solutions Architect", "DevOps Engineer"],
+    "extracurriculars": ["Open-source contributions", "Hackathons", "Code review groups", "Side projects"],
+    "bestColleges": {
+      "FL": ["University of Florida"],
+      "CA": ["Stanford University", "UC Berkeley", "Carnegie Mellon"],
+      "NY": ["Columbia University", "Cornell University"],
+      "TX": ["UT Austin", "Rice University"]
+    },
+    "salary": "$85,000 - $160,000",
+    "jobOutlook": "22%",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "name": "Information Technology",
+    "emoji": "🖥️",
+    "category": "STEM",
+    "description": "Manage and support technology infrastructure, systems, and networks. Combine theory with hands-on technical work in IT operations.",
+    "traits": ["Technical", "Detail-oriented", "Support-focused", "Problem-solving"],
+    "scholarships": ["CompTIA IT Scholarships", "Cisco Networking Academy Grants"],
+    "hsCourses": ["Computer Science", "Information Technology", "Networking", "Advanced Mathematics"],
+    "careers": ["Network Administrator", "Systems Administrator", "IT Support Specialist", "IT Manager"],
+    "extracurriculars": ["IT certifications (A+, Network+)", "Networking clubs", "Help desk internships"],
+    "bestColleges": {
+      "FL": ["Florida Tech", "University of Central Florida"],
+      "CA": ["San Jose State University", "Cal Poly"],
+      "NY": ["RPI", "Rochester Institute of Technology"],
+      "TX": ["University of Houston", "Texas Tech"]
+    },
+    "salary": "$55,000 - $95,000",
+    "jobOutlook": "13%",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "name": "Computer Engineering",
+    "emoji": "🔌",
+    "category": "STEM",
+    "description": "Combine electrical engineering and computer science to design computer hardware and embedded systems. Work on processors, circuits, and hardware architecture.",
+    "traits": ["Technical", "Hardware-focused", "Analytical", "Problem-solving"],
+    "scholarships": ["IEEE Computer Society Scholarships", "Intel Scholarships"],
+    "hsCourses": ["AP Computer Science", "AP Physics C", "Calculus (AP)", "Linear Algebra", "Electronics"],
+    "careers": ["Hardware Engineer", "Embedded Systems Engineer", "FPGA Designer", "Systems Engineer"],
+    "extracurriculars": ["Robotics clubs", "Hardware design projects", "Electronics labs", "FPGA development"],
+    "bestColleges": {
+      "FL": ["University of Florida"],
+      "CA": ["Stanford University", "UC Berkeley", "Caltech"],
+      "NY": ["Cornell University", "RPI"],
+      "TX": ["UT Austin", "Rice University"]
+    },
+    "salary": "$80,000 - $150,000",
+    "jobOutlook": "5%",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 8,
+    "name": "Electrical Engineering",
+    "emoji": "⚡",
+    "category": "STEM",
+    "description": "Apply principles of electricity, magnetism, and electromagnetism to design electrical equipment and power systems. Study circuit theory and signal processing.",
+    "traits": ["Technical", "Analytical", "Hands-on", "Problem-solving"],
+    "scholarships": ["IEEE Power & Energy Society Scholarships", "Eaton Scholarships"],
+    "hsCourses": ["AP Physics C: Electricity & Magnetism", "Calculus (AP)", "Advanced Mathematics", "Electronics"],
+    "careers": ["Electrical Engineer", "Power Systems Engineer", "Controls Engineer", "Design Engineer"],
+    "extracurriculars": ["Robotics competition", "Engineering design projects", "Electronics labs"],
+    "bestColleges": {
+      "FL": ["University of Florida"],
+      "CA": ["Stanford University", "UC Berkeley", "Caltech"],
+      "NY": ["Cornell University", "Columbia University"],
+      "TX": ["UT Austin", "Rice University", "Texas A&M"]
+    },
+    "salary": "$75,000 - $145,000",
+    "jobOutlook": "3%",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 9,
+    "name": "Mechanical Engineering",
+    "emoji": "🔧",
+    "category": "STEM",
+    "description": "Design and test mechanical devices and systems. Apply physics and materials science to solve practical engineering problems in manufacturing and product design.",
+    "traits": ["Technical", "Design-focused", "Problem-solving", "Analytical"],
+    "scholarships": ["ASME Scholarships", "Boeing Scholarships"],
+    "hsCourses": ["AP Physics C: Mechanics", "Calculus (AP)", "Advanced Mathematics", "CAD/Design"],
+    "careers": ["Mechanical Engineer", "Design Engineer", "Manufacturing Engineer", "Robotics Engineer"],
+    "extracurriculars": ["FIRST Robotics", "Formula SAE competition", "Design competitions", "CAD modeling"],
+    "bestColleges": {
+      "FL": ["University of Florida"],
+      "CA": ["Stanford University", "UC Berkeley", "Caltech"],
+      "NY": ["Cornell University"],
+      "TX": ["UT Austin", "Rice University", "Texas A&M"]
+    },
+    "salary": "$70,000 - $140,000",
+    "jobOutlook": "4%",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 10,
+    "name": "Civil Engineering",
+    "emoji": "🏗️",
+    "category": "STEM",
+    "description": "Design and maintain infrastructure like buildings, bridges, roads, and water systems. Combine structural analysis, project management, and environmental considerations.",
+    "traits": ["Analytical", "Project-focused", "Infrastructure-minded", "Detail-oriented"],
+    "scholarships": ["ASCE Scholarships", "American Road & Transportation Builders"],
+    "hsCourses": ["Calculus (AP)", "Physics", "Advanced Mathematics", "Environmental Science"],
+    "careers": ["Civil Engineer", "Structural Engineer", "Geotechnical Engineer", "Project Manager"],
+    "extracurriculars": ["ASCE student chapter", "Bridge building competitions", "Site visits", "Design-build projects"],
+    "bestColleges": {
+      "FL": ["University of Florida"],
+      "CA": ["UC Berkeley", "Caltech"],
+      "NY": ["Cornell University", "Columbia University"],
+      "TX": ["UT Austin", "Rice University", "Texas A&M"]
+    },
+    "salary": "$65,000 - $130,000",
+    "jobOutlook": "8%",
+    "difficulty": "Hard"
+  }
+]
